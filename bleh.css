@@ -3,3 +3,21 @@ html {
   background-color: white;
   text-align: center;
 }
+
+div {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+}
+
+#bottom {
+  top: 0;
+  left: 0;
+  background-color: blue;
+}
+
+#top {
+  top: 25%;
+  left: 25%;
+  background-color: red;
+}
