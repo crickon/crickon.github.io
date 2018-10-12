@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/crick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://crickon.github.io
+  * I am crick (https://keybase.io/crick) on keybase.
+  * I have a public key ASB3wAYKSUXG8bDNGDXGknNJuJDVY59r44UGdDRc858Ufgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012077c0060a4945c6f1b0cd1835c6927349b890d5639f6be3850674345cf39f147e0a",
+      "host": "keybase.io",
+      "kid": "012077c0060a4945c6f1b0cd1835c6927349b890d5639f6be3850674345cf39f147e0a",
+      "uid": "cca32fa15b04dd46eb689bf4e0e3da19",
+      "username": "crick"
+    },
+    "merkle_root": {
+      "ctime": 1539310804,
+      "hash": "07af322319f5c0f9c5d178dc44d547964ea0934cdce4a41bcea54bb8f9b78d3cafcc8e7db8f0f31fcd361c99d9f724f853eb3908907795b8dbd2e37026609673",
+      "hash_meta": "dca47a7af0332140c98f24b8dc4b9bf615287e1ebe0277c1fd8b8c8ac47bcd58",
+      "seqno": 3784020
+    },
+    "service": {
+      "entropy": "G9I0YBPPn7bMTHUK9Y6uGY1e",
+      "hostname": "crickon.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539310874,
+  "expire_in": 504576000,
+  "prev": "7921d50228f7ce6f493b174e85f0e1963a591a4d65572eea65781397998e2f4d",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgd8AGCklFxvGwzRg1xpJzSbiQ1WOfa+OFBnQ0XPOfFH4Kp3BheWxvYWTESpcCDcQgeSHVAij3zm9JOxdOhfDhljpZGk1lVy7qZXgTl5mOL03EIHEprYFqXuoROso3gOIeWXhkjXPnrBRzboxHTmWw8Wh/AgHCo3NpZ8RArkB8MGNztkkGHiWbylB6qO2FBXbacPz5TqGgTy9AuFo8C3cm9GFOGyVaGoM/4+1u0luNo5CvpmuXv9yPNfHLBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA+pYh8ptKxb98K4ZeiMVwle5rMWpPXL1Qlb0CI5Uidvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/crick
+
+==================================================================
