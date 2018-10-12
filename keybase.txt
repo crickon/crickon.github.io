@@ -1,14 +1,3 @@
-https://keybase.io/crick
---------------------------------------------------------------------
-
-I hereby claim:
-
-  * I am an admin of https://crickon.github.io
-  * I am crick (https://keybase.io/crick) on keybase.
-  * I have a public key ASB3wAYKSUXG8bDNGDXGknNJuJDVY59r44UGdDRc858Ufgo
-
-To do so, I am signing this object:
-
 {
   "body": {
     "key": {
@@ -42,12 +31,3 @@ To do so, I am signing this object:
   "seqno": 13,
   "tag": "signature"
 }
-
-which yields the signature:
-
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgd8AGCklFxvGwzRg1xpJzSbiQ1WOfa+OFBnQ0XPOfFH4Kp3BheWxvYWTESpcCDcQgeSHVAij3zm9JOxdOhfDhljpZGk1lVy7qZXgTl5mOL03EIHEprYFqXuoROso3gOIeWXhkjXPnrBRzboxHTmWw8Wh/AgHCo3NpZ8RArkB8MGNztkkGHiWbylB6qO2FBXbacPz5TqGgTy9AuFo8C3cm9GFOGyVaGoM/4+1u0luNo5CvpmuXv9yPNfHLBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA+pYh8ptKxb98K4ZeiMVwle5rMWpPXL1Qlb0CI5Uidvo3RhZ80CAqd2ZXJzaW9uAQ==
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/crick
