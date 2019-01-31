@@ -7,7 +7,7 @@
 <body onload="load()">
 	<div id="wrap">
 		<p>
-			Crickon's Portal v0.2 <br>
+			Crickon's Portal v0.3 <br>
 		</p>
 		<table id="data" cellspacing="0" cellpadding="10" border="1">
 			<tr>
@@ -17,20 +17,8 @@
 				<td>Days until Due</td>
 			</tr>
 		</table>
-		<p>
-			Change Log <br>
-			<ul>
-				<li>v0.1</li>
-				<ul>
-					<li>Bringing my idea to life in the least efficient way possible</li>
-				</ul>
-				<li>v0.2</li>
-				<ul>
-					<li>Assignments wont show after they are due</li>
-					<li>Added Days until Due</li>
-				</ul>
-			</ul>
-		</p>
+		<button onclick="changeLogButton()" id="change">Show Change Log</button>
+		<span id = "log"></span>
 	</div>
 </body>
 </html>
