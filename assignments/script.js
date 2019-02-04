@@ -1,4 +1,6 @@
 function load() {
+document.getElementById("date").innerHTML = new Date();
+
 fetch('input.txt')
   .then(response => response.text())
   .then(text => parseText(text))
