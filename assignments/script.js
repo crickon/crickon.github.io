@@ -10,10 +10,13 @@ fetch('manual.txt')
 	.then(text => parseText(text))
 }
 
+var assignments = [];
+
 function parseText(t) {
 	var arr = t.split("\n"); //split by lines
 	var i = 2;
 	console.log(arr.length);
+  var count = 0;
 	while(i < arr.length){
 		var today = new Date();
 		var date = new Date(arr[i]);
@@ -21,10 +24,13 @@ function parseText(t) {
     console.log(days);
 		if (days >= 0){
 			var assignment = {class: arr[i-2], description: arr[i-1], date: arr[i], days: days};
-			addAssignment(assignment);
+      assignments[count] = assignment;
 	}
 		i = i + 4;
+    count = count + 1;
 	}
+  assignments.sort(function(a, b){return a.days-b.days});
+  assignments.forEach(addAssignment);
 }
 
 function addAssignment(assignment) {
